@@ -34,7 +34,7 @@ var google_remarketing_only = false;
 
 
 <?php include_once('partials/menu.php'); ?>
-<?php echo select_banner(base_url().'assets/images/banners/banner_veiculos.jpg', title_site(null)); ?>
+<?php echo select_banner(base_url().'assets/images/banner_veiculos.jpg', title_site(null)); ?>
 
 <section id="two" class="no-padding">
     <div class="container content-text-pages">
