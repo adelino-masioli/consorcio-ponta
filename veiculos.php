@@ -34,7 +34,7 @@ var google_remarketing_only = false;
 
 
 <?php include_once('partials/menu.php'); ?>
-<?php echo select_banner(base_url().'assets/images/banner_veiculos.jpg', title_site(null)); ?>
+<?php echo select_banner(base_url().'assets/images/banners/banner_veiculos.jpg', title_site(null)); ?>
 
 <section id="two" class="no-padding">
     <div class="container content-text-pages">
@@ -69,7 +69,7 @@ var google_remarketing_only = false;
         <div class="row">
             <div class="col-lg-offset-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <h1 class="wow fadeIn text-center hidden" data-wow-delay=".3s">Contratos dos grupos a partir do 957<br/>(permitem implementos agrícolas):</h1>
-                <p class="wow fadeIn text-center" data-wow-delay=".3s"><a target="_blank"  href="<?php echo base_url().'downloads/veiculos/contrato_ponta_veiculos_20170904.pdf'; ?>" class="download">BAIXAR CONTRATO</a></p>
+                <p class="wow fadeIn text-center" data-wow-delay=".3s"><a target="_blank"  href="<?php echo base_url().'downloads/veiculos/pa_0001_17_contrato_consorcio_ponta_veiculos_15x21cm.pdf'; ?>" class="download">BAIXAR CONTRATO</a></p>
             </div>
         </div>
 

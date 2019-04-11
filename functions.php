@@ -9,8 +9,8 @@ function base_url(){
     }
     //return $protocol . "://" . $_SERVER['HTTP_HOST'].'/';
     //return 'http://loggia.com.br/clientes/sicoob/sicoobponta/vs3/';
-    return 'http://www.consorcioponta.com.br/';
-    //return 'http://127.0.0.1:8083/';
+    //return 'http://www.consorcioponta.com.br/';
+    return 'http://sicoobponta.localhost/';
 }
 
 function set_qr(){

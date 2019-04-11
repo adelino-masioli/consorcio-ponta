@@ -2,7 +2,7 @@
 <?php include_once('partials/header.php');?>
 <?php include_once('partials/menu.php'); ?>
 
-<?php echo select_banner(base_url().'assets/images/banner_veiculos_pesados.jpg', title_site(null)); ?>
+<?php echo select_banner(base_url().'assets/images/banners/banner_veiculos_pesados.jpg', title_site(null)); ?>
 
 <section id="two" class="no-padding">
     <div class="container content-text-pages">
@@ -15,7 +15,7 @@
 
         <div class="row">
             <div class="col-lg-offset-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
-                <p class="wow fadeIn text-center" data-wow-delay=".3s"><a target="_blank" href="<?php echo base_url().'downloads/contrato_sicoob_consorcios_veiculos_pesados.pdf'; ?>" class="download">BAIXAR CONTRATO</a></p>
+                <p class="wow fadeIn text-center" data-wow-delay=".3s"><a target="_blank" href="<?php echo base_url().'downloads/pa_0001_17_contrato_consorcio_ponta_veiculos_pesados_15x21cm.pdf'; ?>" class="download">BAIXAR CONTRATO</a></p>
             </div>
         </div>
 

@@ -36,7 +36,7 @@
                 <div class="col-xs-12 col-sm-2 column">
                     <ul class="list-unstyled">
                         <li><a href="<?php echo base_url(); ?>consorcio-ponta.php">CONSÓRCIO PONTA</a></li>
-                        <li><a href="<?php echo base_url(); ?>institucional.php">RESULTADOS</a></li>
+                        <li class="hidden"><a href="<?php echo base_url(); ?>institucional.php">RESULTADOS</a></li>
                         <li><a href="<?php echo base_url(); ?>fique-por-dentro.php">FIQUE POR DENTRO</a></li>
                         <li><a href="<?php echo base_url(); ?>veiculos.php">CONSÓRCIO DE VEÍCULOS</a></li>
                     </ul>
@@ -46,7 +46,7 @@
                         <li><a href="<?php echo base_url(); ?>imoveis.php">CONSÓRCIO IMÓVEIS</a></li>
                         <li><a href="<?php echo base_url(); ?>motos.php">CONSÓRCIO MOTOS</a></li>
                         <li><a href="<?php echo base_url(); ?>servicos.php" target="_blank">CONSÓRCIO SERVIÇOS</a></li>
-                        <li><a href="<?php echo base_url(); ?>institucional.php">INSTITUCIONAL</a></li>
+                        <li class="hidden"><a href="<?php echo base_url(); ?>institucional.php">INSTITUCIONAL</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-sm-2 column">

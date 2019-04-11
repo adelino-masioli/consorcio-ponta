@@ -53,7 +53,7 @@
         <div class="navbar-collapse collapse" id="bs-navbar">
             <ul class="nav navbar-nav">
                 <li><a class="<?php echo active_menu('sicoob-consorcios'); ?>" href="<?php echo base_url(); ?>consorcio-ponta.php">Ponta Administradora de Consórcios</a></li>
-                <li class="hidden"><a class="<?php echo active_menu_array(array('oferte-seu-lance','segunda-via-do-boleto')); echo active_menu('institucional'); ?> vertical-align" href="<?php echo base_url(); ?>institucional.php">Institucional</a></li>
+                <li><a class="<?php echo active_menu_array(array('oferte-seu-lance','segunda-via-do-boleto')); echo active_menu('institucional'); ?> vertical-align" href="<?php echo base_url(); ?>institucional.php">Institucional</a></li>
                 <li><a class="<?php echo active_menu('fique-por-dentro'); ?> vertical-align" href="<?php echo base_url(); ?>fique-por-dentro.php">Fique por Dentro</a></li>
                 <li><a class="<?php echo active_menu('imoveis'); ?> vertical-align" href="<?php echo base_url(); ?>imoveis.php">Imóveis</a></li>
                 <li><a class="<?php echo active_menu('veiculos'); ?> vertical-align" href="<?php echo base_url(); ?>veiculos.php">Veículos</a></li>
